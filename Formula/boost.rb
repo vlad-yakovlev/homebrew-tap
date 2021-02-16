@@ -1,12 +1,11 @@
 class Boost < Formula
   desc "Collection of portable C++ source libraries"
   homepage "https://www.boost.org/"
-  url "https://dl.bintray.com/boostorg/release/1.75.0/source/boost_1_75_0.tar.bz2"
-  mirror "https://dl.bintray.com/homebrew/mirror/boost_1_75_0.tar.bz2"
-  sha256 "953db31e016db7bb207f11432bef7df100516eeb746843fa0486a222e3fd49cb"
+  url "https://github.com/vlad-yakovlev/homebrew-tap/raw/main/empty.tar.gz"
+  sha256 "239e88e920cbed64cf3766a61a3a3d98f2085577ac891544196d9fcdabee1540"
   license "BSL-1.0"
+  version "1.75.0"
   revision 1
-  head "https://github.com/boostorg/boost.git"
 
   bottle do
     root_url "https://dl.bintray.com/vlad-yakovlev/bottles-tap"
@@ -18,8 +17,4 @@ class Boost < Formula
 
   uses_from_macos "bzip2"
   uses_from_macos "zlib"
-
-  def install
-    raise "Build from sources is not supported"
-  end
 end
