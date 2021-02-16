@@ -5,3 +5,7 @@ Extra Homebrew formulae
 ```
 brew tap vlad-yakovlev/tap
 ```
+
+## Formulae
+
+`boost` - boost bottle for macOS Big Sur x86_64 & arm64
