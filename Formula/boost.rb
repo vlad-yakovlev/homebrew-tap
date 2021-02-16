@@ -2,7 +2,7 @@ class Boost < Formula
   desc "Collection of portable C++ source libraries"
   homepage "https://www.boost.org/"
   url "https://github.com/vlad-yakovlev/homebrew-tap/raw/main/empty.tar.gz"
-  sha256 "239e88e920cbed64cf3766a61a3a3d98f2085577ac891544196d9fcdabee1540"
+  sha256 "84efc8f5fa0387200f7b073132d719379be9d9198f60f5a4d0c00fe5e1a2a018"
   license "BSL-1.0"
   version "1.75.0"
   revision 1
