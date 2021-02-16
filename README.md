@@ -2,4 +2,6 @@
 Extra Homebrew formulae
 
 ## Installation
-```brew tap vlad-yakovlev/tap```
+```
+brew tap vlad-yakovlev/tap
+```
