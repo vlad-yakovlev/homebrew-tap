@@ -12,3 +12,4 @@ brew tap vlad-yakovlev/tap
 `ffmpeg` - ffmpeg bottle for macOS Big Sur x86_64 & arm64
 `minizip` - minizip bottle for macOS Big Sur x86_64 & arm64
 `sdl2` - sdl2 bottle for macOS Big Sur x86_64 & arm64
+`sdl2_image` - sdl2_image bottle for macOS Big Sur x86_64 & arm64
