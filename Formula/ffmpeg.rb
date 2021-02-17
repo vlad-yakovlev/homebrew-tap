@@ -11,7 +11,6 @@ class Ffmpeg < Formula
 
   bottle do
     root_url "https://dl.bintray.com/vlad-yakovlev/bottles-tap"
-    sha256 arm64_big_sur: "72072dedba77c66f023980dd09b002be0e5cfae17b8bcde94580b7a6e92d10af"
     sha256 big_sur:       "72072dedba77c66f023980dd09b002be0e5cfae17b8bcde94580b7a6e92d10af"
   end
 

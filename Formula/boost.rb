@@ -9,7 +9,6 @@ class Boost < Formula
 
   bottle do
     root_url "https://dl.bintray.com/vlad-yakovlev/bottles-tap"
-    sha256 cellar: :any, arm64_big_sur: "33df216ad569a5e135e734ffe024da77b3dc85aa241fb8765be1fe7df5f6df87"
     sha256 cellar: :any, big_sur:       "33df216ad569a5e135e734ffe024da77b3dc85aa241fb8765be1fe7df5f6df87"
   end
 

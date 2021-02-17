@@ -7,7 +7,6 @@ class Minizip < Formula
 
   bottle do
     root_url "https://dl.bintray.com/vlad-yakovlev/bottles-tap"
-    sha256 cellar: :any, arm64_big_sur: "91a6cf76f518b316bac9f91a41bd8add49b758088265c65acfc235d3bf7a2426"
     sha256 cellar: :any, big_sur:       "91a6cf76f518b316bac9f91a41bd8add49b758088265c65acfc235d3bf7a2426"
   end
 

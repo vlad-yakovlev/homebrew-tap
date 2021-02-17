@@ -9,7 +9,6 @@ class Sdl2 < Formula
 
   bottle do
     root_url "https://dl.bintray.com/vlad-yakovlev/bottles-tap"
-    sha256 cellar: :any, arm64_big_sur: "c8f49cac73ba1ca39fdd54d24441c2ceac119553aa916072ff6d015b4f211e6d"
     sha256 cellar: :any, big_sur:       "c8f49cac73ba1ca39fdd54d24441c2ceac119553aa916072ff6d015b4f211e6d"
   end
 end

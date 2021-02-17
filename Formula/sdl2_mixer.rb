@@ -7,7 +7,6 @@ class Sdl2Mixer < Formula
 
   bottle do
     root_url "https://dl.bintray.com/vlad-yakovlev/bottles-tap"
-    sha256 cellar: :any, arm64_big_sur: "a9f3979f3480e1afaf4bdf6e7c8d2b8e00d3446840d75bb14b42788b6be55283"
     sha256 cellar: :any, big_sur:       "a9f3979f3480e1afaf4bdf6e7c8d2b8e00d3446840d75bb14b42788b6be55283"
   end
 
