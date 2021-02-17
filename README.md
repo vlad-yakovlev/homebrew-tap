@@ -10,6 +10,7 @@ brew tap vlad-yakovlev/tap
 
 `boost` - boost lib for macOS Big Sur to build both x86_64 & arm64
 `ffmpeg` - ffmpeg lib for macOS Big Sur to build both x86_64 & arm64
+`icu4c` - icu4c lib for macOS Big Sur to build both x86_64 & arm64
 `minizip` - minizip lib for macOS Big Sur to build both x86_64 & arm64
 `sdl2` - sdl2 lib for macOS Big Sur to build both x86_64 & arm64
 `sdl2_image` - sdl2_image lib for macOS Big Sur to build both x86_64 & arm64
